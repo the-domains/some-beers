@@ -1,0 +1,28 @@
+name: Some Beers
+favicon: null
+layout_spectrum: 0.20225265668705106
+typography_spectrum: 0.8006399378646165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9439296324271709
+  lightness: 0.5455677853897214
+  saturation: 0.33120956900529563
+  rhythmicContrast: 0.3026604747865349
+purpose: []
