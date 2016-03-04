@@ -4,8 +4,15 @@
         <description><![CDATA[Some Beers]]></description>
         <link>https://thegrid.ai/some-beers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 00:15:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/some-beers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is really unimpressive.</p>]]></description>
+            <link>https://thegrid.ai/some-beers/2bae9b13-dbaa-4a6e-899a-f6d5c9d5b5b8/index.html</link>
+            <guid isPermaLink="false">2bae9b13-dbaa-4a6e-899a-f6d5c9d5b5b8</guid>
+            <pubDate>Fri, 04 Mar 2016 00:14:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edd8f26-179c-4c27-973f-ba1d6b87ec18.jpg">]]></description>
