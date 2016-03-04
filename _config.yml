@@ -2,6 +2,7 @@ name: Some Beers
 favicon: null
 layout_spectrum: 0.28052
 typography_spectrum: 0.8006399378646165
+title: Some Beers
 cta:
   domain: null
   bucket: null
