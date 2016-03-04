@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Some Beers]]></title>
         <description><![CDATA[Some Beers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/some-beers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 23:28:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:14:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/some-beers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edd8f26-179c-4c27-973f-ba1d6b87ec18.jpg">]]></description>
-            <link>undefinedf98f8639-7f09-4b7f-9718-f32bdb3d48ff/index.html</link>
+            <link>https://thegrid.ai/some-beers/f98f8639-7f09-4b7f-9718-f32bdb3d48ff/index.html</link>
             <guid isPermaLink="false">f98f8639-7f09-4b7f-9718-f32bdb3d48ff</guid>
-            <pubDate>Mon, 11 Jan 2016 23:28:35 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 00:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
